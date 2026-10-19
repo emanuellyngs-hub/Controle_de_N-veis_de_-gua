@@ -8,26 +8,6 @@ Este projeto foi desenvolvido para a atividade da Agenda 11 de Desenvolvimento d
 
 Criar um programa em Python que represente cinco níveis de água, usando mensagens e núcleos separados para facilitar a identificação de cada situação do reservatório, tudo no contexto do programa.
 
-## 🛠️ Tecnologias utilizadas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
-- **Python:** linguagem utilizada para desenvolver o programa.
-- **Colorama:** biblioteca utilizada para exibir mensagens coloridas no terminal.
-- **Visual Studio Code:** editor utilizado para escrever e executar o código.
-
-## 📚 Conteúdos utilizados
-
-- Listas em Python;
-- Funções;
-- Estruturas condicionais (`if` e `elif`);
-- Importação e utilização de bibliotecas;
-- Exibição de mensagens no terminal;
-- Cores e estilos de texto com a biblioteca Colorama.
-
 ## 💧 Níveis do reservatório
 
 | Nível | Situação | Cor |
@@ -57,5 +37,25 @@ python app.py
 ## ✅ Conclusão
 
 Com esta atividade, pratiquei o uso de listas, funções, estruturas condicionais e bibliotecas em Python. Também aprendi a utilizar a biblioteca Colorama para destacar mensagens com cores no terminal, tornando a visualização dos níveis do reservatório mais clara e organizada.
+
+## 🛠️ Tecnologias utilizadas
+
+- **Python:** linguagem utilizada para desenvolver o programa.
+- **Colorama:** biblioteca utilizada para exibir mensagens coloridas no terminal.
+- **Visual Studio Code:** editor utilizado para escrever e executar o código.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+## 📚 Conteúdos utilizados
+
+- Listas em Python;
+- Funções;
+- Estruturas condicionais (`if` e `elif`);
+- Importação e utilização de bibliotecas;
+- Exibição de mensagens no terminal;
+- Cores e estilos de texto com a biblioteca Colorama.
 
 **Autora:** Emanuelly Nicolly  
